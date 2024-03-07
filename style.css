@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Verdana, sans-serif;
+    
 }
 .container{
     width: 99vw;
@@ -79,6 +80,10 @@
 }
 #nav2 ul li:hover{
     background-color: #cccccc;
+}
+
+::-webkit-scrollbar{
+    display: none;
 }
 
 /* nav section end  */
